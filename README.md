@@ -6,8 +6,50 @@
   
 </div>
 
-### Status
+### 🙋‍‍♂️ Introduce myself
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=axect)](https://github.com/anuraghazra/github-readme-stats)
+#### 👨‍‍🏫 Graduate Students at Physics
 
-### 
+* [Yonsei HEP-COSMO](http://nexus.yonsei.ac.kr)
+* Department of Physics, Yonsei University
+
+#### ❤️ Interests
+
+* Scientific computation
+* Machine Learning / Statistics
+* Astrophysics, Cosmology and Particle physics
+
+### ▶️ Status
+
+[![Axect's github stats](https://github-readme-stats.vercel.app/api?username=axect)](https://github.com/anuraghazra/github-readme-stats)
+
+<details>
+<summary>
+	<b>More specific</b>
+</summary>
+	
+### 🔖 Skills
+
+#### 🔢 Mathematics
+
+* Functional Analysis
+* Differential Geometry
+* Numerical Analysis
+
+#### 🍎 Physics
+
+* Quantum Field Theory
+* General Relativity
+* Mathematical Physics
+
+#### 💻 Programming
+
+* **Main Languague** : Rust
+* **Sub Languages** : C++, Julia, R, Python
+* **Frameworks or Libraries**
+    * Numerical: peroxide, BLAS, LAPACK, numpy, scipy
+    * Visualization: matplotlib, vegas, ggplot2, plotly
+    * Web: Django, Vue, Firebase, Surge, Hugo
+    * Machine Learning: Tensorflow, Keras, Torch
+	
+</details>
