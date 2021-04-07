@@ -23,7 +23,7 @@
 
 [![Axect's github stats](https://github-readme-stats.vercel.app/api?username=axect)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Coders rank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=axect&badges=2&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px)](https://profile.codersrank.io/user/axect/)
+[![Coders rank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=axect&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px)](https://profile.codersrank.io/user/axect/)
 
 <details>
 <summary>
