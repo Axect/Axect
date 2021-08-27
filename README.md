@@ -1,4 +1,4 @@
-## Hello, I'm [Tae Geun Kim](https://axect.github.io)  👋
+## Hello, I'm [Tae-Geun Kim](https://axect.github.io)  👋
   
 <div align=center>
 	
