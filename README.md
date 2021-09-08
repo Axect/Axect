@@ -58,6 +58,7 @@
     * Numerical: peroxide, BLAS, LAPACK, numpy, scipy
     * Visualization: matplotlib, vegas, ggplot2, plotly
     * Web: Django, Vue, Firebase, Surge, Hugo
-    * Machine Learning: Tensorflow, Keras, Torch
+    * Machine Learning: Scikit-Learn
+    * Deep Learning: PyTorch, Flux
 	
 </details>
