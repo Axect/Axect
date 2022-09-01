@@ -31,14 +31,14 @@
 
 [![Coders rank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=axect)](https://profile.codersrank.io/user/axect)
 
+### :octocat: Github contributions
+
+![](./profile-3d-contrib/profile-gitblock.svg)
+
 <details>
 <summary>
 	<b>More specific</b>
 </summary>
-
-###  Github contributions
-
-![](./profile-3d-contrib/profile-gitblock.svg)
 	
 ### 🔖 Skills
 
