@@ -29,7 +29,7 @@
 
 ### 👨‍‍💻 Tech Skills
 
-[![Coders rank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=axect&skills=Rust,Julia&show-other-skills=true)](https://profile.codersrank.io/user/axect)
+[![Coders rank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=axect)](https://profile.codersrank.io/user/axect)
 
 ### :octocat: Github contributions
 
