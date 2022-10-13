@@ -16,8 +16,9 @@
 #### ❤️ Interests
 
 * Scientific computation
-* Machine Learning / Statistics
+* Machine Learning / Deep Learning / Statistics
 * Astrophysics, Cosmology and Particle physics
+* Quantum Computing
 
 ### ▶️ Status
 
