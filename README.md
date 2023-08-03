@@ -22,7 +22,7 @@
 
 ### ▶️ Status
 
-[![Axect's github stats](https://github-readme-stats.vercel.app/api?username=axect)](https://github.com/anuraghazra/github-readme-stats)
+[![Axect's github stats](https://github-readme-stats.vercel.app/api?username=axect&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📚 Portfolio
 
