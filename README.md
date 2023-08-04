@@ -27,6 +27,9 @@
 ### 📚 Portfolio
 
 [![Coders rank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=axect)](https://profile.codersrank.io/user/axect/)
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=axect&max-items=2&dates=false&style=--item-bg-color:%23f00;--item-border-radius:10px"
+/>
 
 ### 👨‍‍💻 Tech Skills
 
