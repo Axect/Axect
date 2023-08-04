@@ -24,6 +24,10 @@
 
 [![Axect's github stats](https://github-readme-stats.vercel.app/api?username=axect&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=axect&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
+
 ### 📚 Portfolio
 
 [![Coders rank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=axect)](https://profile.codersrank.io/user/axect/)
