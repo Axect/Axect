@@ -24,8 +24,6 @@
 
 [![Axect's github stats](https://github-readme-stats.vercel.app/api?username=axect&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Axect's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Axect&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 📚 Portfolio
 
 [![Coders rank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=axect)](https://profile.codersrank.io/user/axect/)
