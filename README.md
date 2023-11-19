@@ -24,7 +24,7 @@
 
 ### ▶️ Status
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=axect" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Axect" />
 
 [![Axect's github stats](https://github-readme-stats.vercel.app/api?username=axect&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
