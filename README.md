@@ -6,6 +6,8 @@
   
 </div>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axect&hide=html,javascript,jupyter%20notebook,css,tex,postscript,elm" />
+
 ### 🙋‍‍♂️ Introduce myself
 
 #### 👨‍‍🏫 Graduate Students at Physics
@@ -22,6 +24,8 @@
 
 ### ▶️ Status
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=axect" />
+
 [![Axect's github stats](https://github-readme-stats.vercel.app/api?username=axect&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📚 Portfolio
@@ -35,6 +39,10 @@
 ### :octocat: Github contributions
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
+
+### 🏆 Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <details>
 <summary>
