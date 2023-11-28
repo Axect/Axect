@@ -6,8 +6,6 @@
   
 </div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axect&hide=html,javascript,jupyter%20notebook,css,tex,postscript,elm" />
-
 ### 🙋‍‍♂️ Introduce myself
 
 #### 👨‍‍🏫 Graduate Students at Physics
