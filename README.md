@@ -28,8 +28,6 @@
 
 [![Axect's github stats](https://github-readme-stats.vercel.app/api?username=axect&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📚 Portfolio
-
 ### 💼 Portfolio
 
 #### [Peroxide](https://github.com/Axect/Peroxide)
@@ -84,6 +82,14 @@
 - Encourages citation of the associated research paper if DeeLeMa benefits users' research
 
 </details>
+
+### 📚 Publications
+
+- Chang Min Hyun, **Tae-Geun Kim**, and Kyounghun Lee, *Unsupervised sequence-to-sequence learning for automatic signal quality assessment in multi-channel electrical impedance-based hemodynamic monitoring*, [CMPB 108079](https://doi.org/10.1016/j.cmpb.2024.108079), [arXiv:2305.09368](https://arxiv.org/abs/2305.09368) (2023)
+
+- Kayoung Ban, Dong Woo Kang, **Tae-Geun Kim**, Seong Chan Park and Yeji Park, *DeeLeMa : Missing information search with Deep Learning for Mass estimation*, [Phys. Rev. Research **5**, 043186](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.043186), [arXiv:2212.12836](https://arxiv.org/abs/2212.12836) (2022)
+
+- Yongsoo Jho, **Tae-Geun Kim**, Jong-Chul Park, Seong Chan Park and Yeji Park, *Axions from Primordial Black Holes*, [arXiv:2212.11977](https://arxiv.org/abs/2212.11977) (2022)
 
 ### 👨‍‍💻 Tech Skills
 
