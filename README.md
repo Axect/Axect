@@ -12,12 +12,14 @@
 
 * [Yonsei HEP-COSMO](https://hepcosmo.yonsei.ac.kr)
 * Department of Physics, Yonsei University
+* [Curriculum Vitae](https://axect.github.io/cv)
+* [Blog](https://axect.github.io)
 
 #### ❤️ Interests
 
+* High energy astrophysics, dark matter and cosmology
 * Scientific computation
 * Machine Learning / Deep Learning / Statistics
-* Astrophysics, Cosmology and Particle physics
 * Quantum Computing
 
 ### ▶️ Status
@@ -28,7 +30,60 @@
 
 ### 📚 Portfolio
 
-[![Coders rank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=axect)](https://profile.codersrank.io/user/axect/)
+### 💼 Portfolio
+
+#### [Peroxide](https://github.com/Axect/Peroxide)
+
+- Rust numeric library for linear algebra, numerical analysis, statistics, and machine learning
+- Provides customizable features for pure Rust, BLAS/LAPACK integration, plotting, and data handling
+- Offers user-friendly syntax similar to R, NumPy, and MATLAB
+- Supports functional programming, automatic differentiation, and various numerical algorithms
+- Includes statistics, special functions, plotting, and DataFrame capabilities
+- Compatible with mathematical structures and leverages Rust's performance and package management
+
+#### [Puruspe](https://github.com/Axect/Puruspe)
+
+- Pure Rust library for special functions with no dependencies
+- Implements gamma, beta, and error functions
+- Provides regularized and inverse versions of the functions
+- Lightweight and efficient implementation
+- Ideal for mathematical and scientific computing applications
+- Based on algorithms from "Numerical Recipes" by Press and Vetterling
+
+#### [Forger](https://github.com/Axect/Forger)
+
+- Reinforcement Learning (RL) library in Rust
+- Modular design with components for agents, environments, policies, and utilities
+- Efficient and safe implementation leveraging Rust's performance and safety features
+- Provides a framework for creating and managing diverse RL environments
+- Supports customizable agent strategies and learning algorithms
+- Includes implementations of Epsilon Greedy Policy, Value Iteration, and Q-Learning
+
+<details>
+<summary>
+	<b>More projects</b>
+</summary>
+
+#### [Radient](https://github.com/Axect/Radient)
+
+- Rust library for automatic differentiation using computational graphs
+- Implements forward and backward propagation for gradient computation
+- Supports various mathematical operations, including exponential, logarithmic, power, and trigonometric functions
+- Provides two options for gradient calculation:
+  - `gradient`: Concise but relatively slower
+  - `gradient_cached`: Fast but slightly more verbose
+- Includes examples demonstrating basic operations with symbols, gradient calculation, and a single-layer perceptron implementation
+
+#### [DeeLeMa](https://github.com/Yonsei-HEP-COSMO/DeeLeMa)
+
+- Deep learning network for estimating mass and momenta in particle collisions at high-energy colliders
+- Generates robust mass distributions with peaks at physical masses, even with combinatoric uncertainties and detector smearing effects
+- Adaptable to different event topologies, particularly effective when corresponding kinematic symmetries are adopted
+- Current version (v1.0.0) is constructed on the $t\bar{t}$-like antler event topology
+- Provides clear instructions for installation, training, and monitoring using Pip or Huak (recommended)
+- Encourages citation of the associated research paper if DeeLeMa benefits users' research
+
+</details>
 
 ### 👨‍‍💻 Tech Skills
 
