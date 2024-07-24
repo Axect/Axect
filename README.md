@@ -39,6 +39,17 @@
 - Includes statistics, special functions, plotting, and DataFrame capabilities
 - Compatible with mathematical structures and leverages Rust's performance and package management
 
+#### [HyperbolicLR](https://github.com/Axect/HyperbolicLR)
+
+- Novel learning rate schedulers (HyperbolicLR and ExpHyperbolicLR) for deep learning optimization
+- Addresses the learning curve decoupling problem observed in conventional schedulers
+- Demonstrates consistent performance improvements and stability across increasing epoch numbers
+- Shows superior performance in maintaining stable learning curves as training duration increases
+- Exhibits versatility across various deep learning tasks and model architectures
+- Offers potential for more efficient hyperparameter tuning in long-duration training tasks
+- Provides a promising approach to improving the training of deep neural networks
+- Implemented and evaluated using PyTorch, with experiments on image classification, time series prediction, and operator learning tasks
+
 #### [Puruspe](https://github.com/Axect/Puruspe)
 
 - Pure Rust library for special functions with no dependencies
