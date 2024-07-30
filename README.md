@@ -10,8 +10,8 @@
 
 #### 👨‍‍🏫 Graduate Students at Physics
 
-* [Yonsei HEP-COSMO](https://hepcosmo.yonsei.ac.kr)
 * Department of Physics, Yonsei University
+* [Yonsei HEP-COSMO](https://hepcosmo.yonsei.ac.kr)
 * [Curriculum Vitae](https://axect.github.io/cv)
 * [Blog](https://axect.github.io)
 
