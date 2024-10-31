@@ -116,26 +116,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Axect&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 🔆 Highlights
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=axect&repo=Peroxide&show_owner=True)](https://github.com/Axect/Peroxide)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=axect&repo=Peroxide_Gallery&show_owner=True)](https://github.com/Axect/Peroxide_Gallery)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=axect&repo=pytorch_template&show_owner=True)](https://github.com/Axect/pytorch_template)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=axect&repo=HyperbolicLR&show_owner=True)](https://github.com/Axect/HyperbolicLR)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=axect&repo=Puruspe&show_owner=True)](https://github.com/Axect/Puruspe)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=axect&repo=ZelLayGen&show_owner=True)](https://github.com/Axect/Zellaygan)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=axect&repo=QuantumAlgorithms&show_owner=True)](https://github.com/Axect/QuantumAlgorithms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SYTEARK&repo=ML2024&show_owner=True)](https://github.com/SYTEARK/ML2024)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=axect&repo=HNumeric&show_owner=True)](https://github.com/Axect/HNumeric)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=axect&repo=NCDataFrame.jl&show_owner=True)](https://github.com/Axect/NCDataFrame.jl)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=axect&repo=Euler&show_owner=True)](https://github.com/Axect/Euler)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=axect&repo=Issues&show_owner=True)](https://github.com/Axect/Issues)
-
 <details>
 <summary>
 	<b>More specific</b>
