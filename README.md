@@ -96,6 +96,8 @@
 
 ### 📚 Publications
 
+- **Tae-Geun Kim**, Seong Chan Park, *Neural Hamilton: Can A.I. Understand Hamiltonian Mechanics?*, [arXiv:2410.20951](https://arxiv.org/abs/2410.20951) (2024)
+
 - **Tae-Geun Kim**, *HyperbolicLR: Epoch insensitive learning rate scheduler*, [arXiv:2407.15200](https://arxiv.org/abs/2407.15200) (2024)
 
 - Chang Min Hyun, **Tae-Geun Kim**, and Kyounghun Lee, *Unsupervised sequence-to-sequence learning for automatic signal quality assessment in multi-channel electrical impedance-based hemodynamic monitoring*, [CMPB 108079](https://doi.org/10.1016/j.cmpb.2024.108079), [arXiv:2305.09368](https://arxiv.org/abs/2305.09368) (2023)
