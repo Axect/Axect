@@ -95,6 +95,7 @@
 </details>
 
 ### 📚 Publications
+- Taehyeun Kim, **Tae-Geun Kim**, Anouk Girard, Ilya Kolmanovsky, Learning Hamiltonian Dynamics with Bayesian Data Assimilation, [arXiv:2501.18808](https://arxiv.org/abs/2501.18808) (2025)
 
 - **Tae-Geun Kim**, Seong Chan Park, *Neural Hamilton: Can A.I. Understand Hamiltonian Mechanics?*, [arXiv:2410.20951](https://arxiv.org/abs/2410.20951) (2024)
 
