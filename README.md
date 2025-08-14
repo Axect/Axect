@@ -101,10 +101,6 @@
 
 - Yongsoo Jho, **Tae-Geun Kim**, Jong-Chul Park, Seong Chan Park and Yeji Park, *Axions from Primordial Black Holes*, [arXiv:2212.11977](https://arxiv.org/abs/2212.11977) (2022)
 
-### 👨‍‍💻 Tech Skills
-
-[![Coders rank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=axect)](https://profile.codersrank.io/user/axect)
-
 ### :octocat: Github contributions
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
