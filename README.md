@@ -2,10 +2,9 @@
 
 ### 🙋‍‍♂️ Introduce myself
 
-#### 👨‍‍🏫 Graduate Students at Physics
+#### 👨‍‍🏫 Postdoctoral Researcher at Physics
 
-* Department of Physics, Yonsei University
-* [Yonsei HEP-COSMO](https://hepcosmo.yonsei.ac.kr)
+* Institute of Modern Physics, Fudan University & RIKEN iTHEMS
 * [Curriculum Vitae](https://axect.github.io/cv)
 * [Blog](https://axect.github.io)
 
