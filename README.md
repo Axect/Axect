@@ -1,93 +1,74 @@
-## Hello, I'm [Tae-Geun Kim](https://axect.github.io)  👋
+## Hello, I'm [Tae-Geun Kim](https://axect.github.io) 👋
 
-### 🙋‍‍♂️ Introduce myself
+### 🙋‍♂️ Introduce myself
 
-#### 👨‍‍🏫 Postdoctoral Researcher at Physics
+#### 👨‍🏫 Postdoctoral Researcher in Physics
 
 * Institute of Modern Physics, Fudan University & RIKEN iTHEMS
-* [Curriculum Vitae](https://axect.github.io/cv)
+* [Curriculum Vitae](https://github.com/Axect/cv_typst/blob/main/cv.pdf) · [Google Scholar](https://scholar.google.com/citations?user=Gnat36QAAAAJ) · [ORCID](https://orcid.org/0009-0000-4229-2935)
 * [Blog](https://axect.github.io)
 
-#### ❤️ Interests
+#### 🔬 Research Areas
 
-* High energy astrophysics, dark matter and cosmology
-* Scientific computation
-* Machine Learning / Deep Learning / Statistics
-* Quantum Computing
-
-### ▶️ Status
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Axect&langs_count=5" />
-
-[![Axect's github stats](https://github-readme-stats.vercel.app/api?username=axect&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+* AI for Science — neural operators, physics-informed deep learning, Hamiltonian learning
+* Dark matter physics — axion-like particles, primordial black holes, detectability studies
+* Scientific & High Performance Computing — numerical algorithms, Rust-based tools, parallel computing
 
 ### 💼 Portfolio
 
 #### [Peroxide](https://github.com/Axect/Peroxide)
 
-- Rust numeric library for linear algebra, numerical analysis, statistics, and machine learning
-- Provides customizable features for pure Rust, BLAS/LAPACK integration, plotting, and data handling
-- Offers user-friendly syntax similar to R, NumPy, and MATLAB
-- Supports functional programming, automatic differentiation, and various numerical algorithms
-- Includes statistics, special functions, plotting, and DataFrame capabilities
-- Compatible with mathematical structures and leverages Rust's performance and package management
+- Comprehensive Rust numeric library for linear algebra, numerical analysis, statistics, and machine learning
+- Supports automatic differentiation, special functions, DataFrame, and BLAS/LAPACK integration
+- User-friendly syntax inspired by R, NumPy, and MATLAB
 
 #### [HyperbolicLR](https://github.com/Axect/HyperbolicLR)
 
-- Novel learning rate schedulers (HyperbolicLR and ExpHyperbolicLR) for deep learning optimization
-- Addresses the learning curve decoupling problem observed in conventional schedulers
-- Demonstrates consistent performance improvements and stability across increasing epoch numbers
-- Shows superior performance in maintaining stable learning curves as training duration increases
-- Exhibits versatility across various deep learning tasks and model architectures
-- Offers potential for more efficient hyperparameter tuning in long-duration training tasks
-- Provides a promising approach to improving the training of deep neural networks
-- Implemented and evaluated using PyTorch, with experiments on image classification, time series prediction, and operator learning tasks
+- Novel learning rate schedulers addressing the learning curve decoupling problem in deep learning
+- Epoch-insensitive design enables stable training across varying durations without retuning
+- Evaluated on image classification, time series prediction, and operator learning tasks with PyTorch
+
+#### [arXiv Explorer](https://github.com/Axect/arXiv_explorer)
+
+- Personal research assistant for arXiv — discover, organize, and annotate papers from the terminal
+- TF-IDF content similarity + category/keyword/recency scoring for personalized recommendations
+- Full TUI, AI summaries (Gemini/Claude/OpenAI/Ollama), reading lists, and export to Markdown/JSON/CSV
 
 #### [Puruspe](https://github.com/Axect/Puruspe)
 
-- Pure Rust library for special functions with no dependencies
-- Implements gamma, beta, and error functions
-- Provides regularized and inverse versions of the functions
-- Lightweight and efficient implementation
-- Ideal for mathematical and scientific computing applications
-- Based on algorithms from "Numerical Recipes" by Press and Vetterling
+- Pure Rust special functions library (gamma, beta, error functions) with zero dependencies
+- Lightweight implementation based on "Numerical Recipes" algorithms
 
 #### [Forger](https://github.com/Axect/Forger)
 
-- Reinforcement Learning (RL) library in Rust
-- Modular design with components for agents, environments, policies, and utilities
-- Efficient and safe implementation leveraging Rust's performance and safety features
-- Provides a framework for creating and managing diverse RL environments
-- Supports customizable agent strategies and learning algorithms
-- Includes implementations of Epsilon Greedy Policy, Value Iteration, and Q-Learning
+- Reinforcement Learning library in Rust with modular agents, environments, and policies
+- Includes Epsilon Greedy, Value Iteration, and Q-Learning implementations
 
 <details>
 <summary>
 	<b>More projects</b>
 </summary>
 
+#### [PyTorch Template](https://github.com/Axect/PyTorch-Template)
+
+- Flexible PyTorch experiment template with YAML-based configuration
+- Supports multiple seeds, device selection, and LR scheduling for reproducible ML research
+
 #### [Radient](https://github.com/Axect/Radient)
 
-- Rust library for automatic differentiation using computational graphs
-- Implements forward and backward propagation for gradient computation
-- Supports various mathematical operations, including exponential, logarithmic, power, and trigonometric functions
-- Provides two options for gradient calculation:
-  - `gradient`: Concise but relatively slower
-  - `gradient_cached`: Fast but slightly more verbose
-- Includes examples demonstrating basic operations with symbols, gradient calculation, and a single-layer perceptron implementation
+- Rust automatic differentiation library using computational graphs
+- Forward/backward propagation with cached and non-cached gradient options
 
 #### [DeeLeMa](https://github.com/Yonsei-HEP-COSMO/DeeLeMa)
 
-- Deep learning network for estimating mass and momenta in particle collisions at high-energy colliders
-- Generates robust mass distributions with peaks at physical masses, even with combinatoric uncertainties and detector smearing effects
-- Adaptable to different event topologies, particularly effective when corresponding kinematic symmetries are adopted
-- Current version (v1.0.0) is constructed on the $t\bar{t}$-like antler event topology
-- Provides clear instructions for installation, training, and monitoring using Pip or Huak (recommended)
-- Encourages citation of the associated research paper if DeeLeMa benefits users' research
+- Deep learning network for mass and momentum estimation in high-energy collider events
+- Robust mass peak recovery under combinatoric uncertainties and detector smearing
 
 </details>
 
 ### 📚 Publications
+- Yongsoo Jho, **Tae-Geun Kim**, Jong-Chul Park, Seong Chan Park and Yeji Park, *Primordial Black Holes as a Factory of Axions: Extragalactic Photons from Axions*, [Prog. Theor. Exp. Phys. ptag011](https://doi.org/10.1093/ptep/ptag011), [arXiv:2212.11977](https://arxiv.org/abs/2212.11977) (2026)
+
 - Taehyeun Kim, **Tae-Geun Kim**, Anouk Girard, Ilya Kolmanovsky, *Learning Hamiltonian Dynamics with Bayesian Data Assimilation*, [arXiv:2501.18808](https://arxiv.org/abs/2501.18808) (2025)
 
 - **Tae-Geun Kim**, Seong Chan Park, *Neural Hamilton: Can A.I. Understand Hamiltonian Mechanics?*, [arXiv:2410.20951](https://arxiv.org/abs/2410.20951) (2024)
@@ -98,44 +79,17 @@
 
 - Kayoung Ban, Dong Woo Kang, **Tae-Geun Kim**, Seong Chan Park and Yeji Park, *DeeLeMa : Missing information search with Deep Learning for Mass estimation*, [Phys. Rev. Research **5**, 043186](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.043186), [arXiv:2212.12836](https://arxiv.org/abs/2212.12836) (2022)
 
-- Yongsoo Jho, **Tae-Geun Kim**, Jong-Chul Park, Seong Chan Park and Yeji Park, *Axions from Primordial Black Holes*, [arXiv:2212.11977](https://arxiv.org/abs/2212.11977) (2022)
+### 🔖 Skills
+
+* **Primary Languages** : Rust, Python, C++, Julia
+* **Frameworks & Libraries**
+    * Numerical Computing: peroxide, numpy, scipy, pandas/polars, BLAS/LAPACK, eigen, mathematica
+    * Machine Learning: PyTorch, JAX/Equinox/Optax, W&B, Optuna, Candle, TensorFlow, Scikit-Learn
+    * Visualization: matplotlib, vegas, ggplot2, plotly
+    * High Energy Physics: BlackHawk, GALPROP, MadGraph, ROOT
+    * Quantum Computing: PennyLane, Qiskit, Cirq, RustQIP
+    * Web: Django, Vue, Firebase, Hugo, Zola, Elm
 
 ### :octocat: Github contributions
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
-
-### 🏆 Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Axect&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
-
-<details>
-<summary>
-	<b>More specific</b>
-</summary>
-	
-### 🔖 Skills
-
-#### 🔢 Mathematics
-
-* Functional Analysis
-* Differential Geometry
-* Numerical Analysis
-
-#### 🍎 Physics
-
-* Quantum Field Theory
-* General Relativity
-* Mathematical Physics
-
-#### 💻 Programming
-
-* **Main Languague** : Rust
-* **Sub Languages** : C++, Julia, R, Python
-* **Frameworks or Libraries**
-    * Numerical: peroxide, BLAS, LAPACK, numpy, scipy
-    * Visualization: matplotlib, vegas, ggplot2, plotly
-    * Web: Django, Vue, Firebase, Surge, Hugo
-    * Machine Learning: Scikit-Learn
-    * Deep Learning: PyTorch, Flux
-	
-</details>
