@@ -4,7 +4,8 @@
 
 #### 👨‍🏫 Postdoctoral Researcher in Physics
 
-* Institute of Modern Physics, Fudan University & RIKEN iTHEMS
+* Key Laboratory of Nuclear Physics and Ion-beam Application (MOE), Fudan University & RIKEN iTHEMS
+* Publications under Tae-Geun Kim
 * [Curriculum Vitae](https://github.com/Axect/cv_typst/blob/main/cv.pdf) · [Google Scholar](https://scholar.google.com/citations?user=Gnat36QAAAAJ) · [ORCID](https://orcid.org/0009-0000-4229-2935)
 * [Blog](https://axect.github.io)
 
@@ -71,7 +72,7 @@
 
 - Yongsoo Jho, **Tae-Geun Kim**, Jong-Chul Park, Seong Chan Park and Yeji Park, *Primordial Black Holes as a Factory of Axions: Extragalactic Photons from Axions*, [Prog. Theor. Exp. Phys. ptag011](https://doi.org/10.1093/ptep/ptag011), [arXiv:2212.11977](https://arxiv.org/abs/2212.11977) (2026)
 
-- Taehyeun Kim, **Tae-Geun Kim**, Anouk Girard, Ilya Kolmanovsky, *Learning Hamiltonian Dynamics with Bayesian Data Assimilation*, [arXiv:2501.18808](https://arxiv.org/abs/2501.18808) (2025)
+- Taehyeun Kim, **Tae-Geun Kim**, Anouck Girard, Ilya Kolmanovsky, *Learning Unknown Gravitational Fields for Spacecraft State Estimation: Temporal Hamiltonian Neural Network-based Adaptive Kalman Filtering*, under review at IEEE Trans. Aerosp. Electron. Syst., earlier version [arXiv:2501.18808](https://arxiv.org/abs/2501.18808) (2025)
 
 - **Tae-Geun Kim**, Seong Chan Park, *Neural Hamilton: Can A.I. Understand Hamiltonian Mechanics?*, [arXiv:2410.20951](https://arxiv.org/abs/2410.20951) (2024)
 
