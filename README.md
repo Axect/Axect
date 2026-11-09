@@ -6,7 +6,7 @@
 
 * Key Laboratory of Nuclear Physics and Ion-beam Application (MOE), Fudan University & RIKEN iTHEMS
 * Publications under Tae-Geun Kim
-* [Curriculum Vitae](https://github.com/Axect/cv_typst/blob/main/cv.pdf) · [Google Scholar](https://scholar.google.com/citations?user=Gnat36QAAAAJ) · [ORCID](https://orcid.org/0009-0000-4229-2935)
+* [Curriculum Vitae](https://axect.github.io/cv.pdf) · [Google Scholar](https://scholar.google.com/citations?user=Gnat36QAAAAJ) · [ORCID](https://orcid.org/0009-0000-4229-2935)
 * [Blog](https://axect.github.io)
 
 #### 🔬 Research Areas
