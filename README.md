@@ -70,7 +70,7 @@
 ### 📚 Publications
 - **Tae-Geun Kim**, Giorgio Comitini, Jonas Grage, Benjamin Joens, Marc Schreiber, Soumya Sen, Russell R P Senthamarai and Johanna Sörngård, *Peroxide: A Batteries-Included Numerical Computing Library for Rust*, [J. Open Source Softw. **11**, 10366](https://doi.org/10.21105/joss.10366) (2026)
 
-- Yongsoo Jho, **Tae-Geun Kim**, Jong-Chul Park, Seong Chan Park and Yeji Park, *Primordial Black Holes as a Factory of Axions: Extragalactic Photons from Axions*, [Prog. Theor. Exp. Phys. ptag011](https://doi.org/10.1093/ptep/ptag011), [arXiv:2212.11977](https://arxiv.org/abs/2212.11977) (2026)
+- Yongsoo Jho, **Tae-Geun Kim**, Jong-Chul Park, Seong Chan Park and Yeji Park, *Primordial Black Holes as a Factory of Axions: Extragalactic Photons from Axions*, [Prog. Theor. Exp. Phys. **2026**, 023B07](https://doi.org/10.1093/ptep/ptag011), [arXiv:2212.11977](https://arxiv.org/abs/2212.11977) (2026)
 
 - Taehyeun Kim, **Tae-Geun Kim**, Anouck Girard, Ilya Kolmanovsky, *Learning Unknown Gravitational Fields for Spacecraft State Estimation: Temporal Hamiltonian Neural Network-based Adaptive Kalman Filtering*, under review at IEEE Trans. Aerosp. Electron. Syst., earlier version [arXiv:2501.18808](https://arxiv.org/abs/2501.18808) (2025)
 
@@ -78,9 +78,9 @@
 
 - **Tae-Geun Kim**, *HyperbolicLR: Epoch insensitive learning rate scheduler*, [arXiv:2407.15200](https://arxiv.org/abs/2407.15200) (2024)
 
-- Chang Min Hyun, **Tae-Geun Kim**, and Kyounghun Lee, *Unsupervised sequence-to-sequence learning for automatic signal quality assessment in multi-channel electrical impedance-based hemodynamic monitoring*, [CMPB 108079](https://doi.org/10.1016/j.cmpb.2024.108079), [arXiv:2305.09368](https://arxiv.org/abs/2305.09368) (2023)
+- Chang Min Hyun, **Tae-Geun Kim**, and Kyounghun Lee, *Unsupervised sequence-to-sequence learning for automatic signal quality assessment in multi-channel electrical impedance-based hemodynamic monitoring*, [Comput. Methods Programs Biomed. **247**, 108079](https://doi.org/10.1016/j.cmpb.2024.108079), [arXiv:2305.09368](https://arxiv.org/abs/2305.09368) (2024)
 
-- Kayoung Ban, Dong Woo Kang, **Tae-Geun Kim**, Seong Chan Park and Yeji Park, *DeeLeMa : Missing information search with Deep Learning for Mass estimation*, [Phys. Rev. Research **5**, 043186](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.043186), [arXiv:2212.12836](https://arxiv.org/abs/2212.12836) (2022)
+- Kayoung Ban, Dong Woo Kang, **Tae-Geun Kim**, Seong Chan Park and Yeji Park, *DeeLeMa : Missing information search with Deep Learning for Mass estimation*, [Phys. Rev. Research **5**, 043186](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.043186), [arXiv:2212.12836](https://arxiv.org/abs/2212.12836) (2023)
 
 ### 🔖 Skills
 
